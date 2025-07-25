@@ -11,4 +11,5 @@ I'm Laxmi Prasad Dhala, passionated in the world of computer systems and managem
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23150458.svg?style=flat&logo=tensorflow&logoColor=white)
 
