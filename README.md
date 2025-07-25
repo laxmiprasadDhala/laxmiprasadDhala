@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Laxmi Prasad Dhala, passionated in the world of computer systems and management.<br>Currently embedded into machine_learning and cybersecurity.
+I'm Laxmi Prasad Dhala, passionated in the world of computer systems and management.<br>Currently embedded into artificial_intelligence/machine_learning and cybersecurity.
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
